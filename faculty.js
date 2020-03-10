@@ -1,4 +1,4 @@
-var employee = [
+var employees = [
   {
     firstName: 'Andrea',
     lastName: 'Abrams',
